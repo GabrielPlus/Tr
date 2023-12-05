@@ -24,8 +24,8 @@ Double-check you have [vessel](https://github.com/dfinity/vessel) installed at v
 $ vessel --version
 # vessel 0.6.0
 
-$ git clone git@github.com:dfinity/cancan.git
-$ cd cancan
+$ git clone git@github.com/GabrielPlus/can.git
+$ cd can
 ```
 
 Start a local Internet Computer replica.
